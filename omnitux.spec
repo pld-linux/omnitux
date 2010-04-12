@@ -3,12 +3,12 @@
 Summary:	Educational game based on multimedia elements
 Summary(pl.UTF-8):	Gra edukacyjna oparta na elementach multimedialnych
 Name:		omnitux
-Version:	1.0.0
+Version:	1.1.0
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
-Source0:	http://dl.sourceforge.net/omnitux/v0.9/%{name}-%{version}.noarch.tar.bz2
-# Source0-md5:	03a307c21cf4d3918ef976b465a5b4fc
+Source0:	http://downloads.sourceforge.net/omnitux/v0.9/%{name}-%{version}.noarch.tar.bz2
+# Source0-md5:	0080ec4829ae738f96a20fa47523bfa0
 URL:		http://omnitux.sourceforge.net/
 BuildRequires:	rpm-pythonprov
 Requires:	python-pygame
